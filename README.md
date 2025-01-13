@@ -4,5 +4,5 @@ just marching and band
 </div>
 <div align="center">
 <br>
-<img src="mingus.gif" width="25%">
+<img src="mingus.gif">
 </div>
