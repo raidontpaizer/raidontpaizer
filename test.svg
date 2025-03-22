@@ -1,22 +1,16 @@
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 400 400" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-            h1 {
-                color: red;
-                animation: mymove 2s infinite;
-            }
-
-            @keyframes mymove {
-                from {
-                    color: red;
-                }
-                to {
-                    color: yellow;
-                }
-            }
+            
             </style>
-            <h1>HELLO WORLD!</h1>
+           <center>
+            <h1>haii haii!!!!!!!!!</h1>
+            <h2>I'm raidopaizer, you can just call me raid, or my real name if you know me</h2>
+           <h4 align="left"> • im decent at html :3</h4>
+<h4 align="left"> • I want to learn c++ or c# at some point in my life though</h4>
+<h4 align="left"> • I really love computers, I've always loved them !! :D</h4>
+           </center>
         </div>
     </foreignObject>
 </svg>
