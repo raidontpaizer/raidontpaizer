@@ -4,6 +4,7 @@
             <style>
             *{
               color: #ff6600; 
+                font-family: Helvetica, sans-serif;
                 }
                h6 {
 color: #c8c8c8;
