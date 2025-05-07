@@ -5,7 +5,7 @@
             *{
               color: #ff6600; 
                 font-family: Helvetica, sans-serif;
-                font-size: 1.1em;
+                font-size: 22px;
                 }
                h6 {
 color: #c8c8c8;
